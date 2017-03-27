@@ -2,3 +2,13 @@
   list-style-type: none;
   display: inline;
 }
+
+.selfie-img {
+  display: block;
+  margin: 0 auto;
+  width: 150px;
+}
+
+.circle-img {
+  border-radius: 50%;
+}

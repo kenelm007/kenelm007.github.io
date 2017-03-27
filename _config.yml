@@ -22,6 +22,8 @@ github_username: kenelm007
 facebook_username: shengjie.pan.33
 linkedin_username: shengjie-pan-a93255105
 
+resume: /resources/Shengjie_Pan_Resume.pdf
+
 # Build settings
 markdown: kramdown
 theme: minima

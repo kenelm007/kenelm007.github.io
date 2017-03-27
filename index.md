@@ -3,4 +3,12 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
+selfie: /resources/self.jpg
 ---
+
+<div>
+  <img class="selfie-img circle-img" src="{{ page.selfie }}">
+</div>
+
+
+I'm Shengjie Pan, a CS student at University of Michigan - Ann Arbor.
